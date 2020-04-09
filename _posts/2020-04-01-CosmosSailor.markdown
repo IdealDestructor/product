@@ -7,4 +7,4 @@ img: cosmossailor.png # Add image post (optional)
 tags: [Resource, Netdisk]
 author: IdealDestructor# Add name author (optional)
 ---
-![img](cosmosqrcode.png)
+![img](/assets/img/cosmosqrcode.png)
