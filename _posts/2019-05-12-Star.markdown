@@ -1,0 +1,10 @@
+---
+layout: post
+title: Star
+date: 2019-05-12 13:32:20 +0300
+description: "Stars never sleep"
+img: star.jpg # Add image post (optional)
+tags: [Universe, Animation]
+author: IdealDestructor# Add name author (optional)
+---
+[Star](http://codepoet.cn/stars/star.html)
