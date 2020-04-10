@@ -7,4 +7,4 @@ img: meteor.jpg # Add image post (optional)
 tags: [Universe, Animation]
 author: IdealDestructor# Add name author (optional)
 ---
-[Solar](http://codepoet.cn/stars/meteor.html)
+[Meteor](http://codepoet.cn/stars/meteor.html)
