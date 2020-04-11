@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Star
+title: Star 星辰
 date: 2019-05-12 13:32:20 +0300
 description: "Stars never sleep"
 img: star.jpg # Add image post (optional)
 tags: [Universe, Animation]
 author: IdealDestructor# Add name author (optional)
 ---
-[Star](http://codepoet.cn/stars/star.html)
+[Star](http://codepoet.cn/stars/star.html)  Stars never sleep
+[Solar](http://codepoet.cn/stars/solar.html) Solar for you
+[Meteor](http://codepoet.cn/stars/meteor.html) Meteor of childhood
