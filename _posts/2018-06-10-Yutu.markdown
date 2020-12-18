@@ -7,4 +7,4 @@ img: yutu.jpg # Add image post (optional)
 tags: [Bigdata, Visualization]
 author: IdealDestructor# Add name author (optional)
 ---
-[舆图](http://codepoet.cn:8080)
+[舆图](http://yutu.idealdestructor.com)
