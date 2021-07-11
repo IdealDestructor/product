@@ -1,5 +1,5 @@
 title: 创意实验 | 析构理想
-email: wdqjj@qq.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,10 +14,10 @@ author-pic: francis.jpg
 about-author: My name is Deqiang Wang. I’m a Front-end developer graduated from Nankai university, majoring in computer science. And I'm also an amateur producer of Dark Glitch-hop and Synthwave music who loves astronomy and history.
 
 # Contact links
-email: wdqjj@qq.com
+email:
 phone: +86 
 website: idealdestructor.com
-linkedin: 德强-王-a18742122
+linkedin:
 github: idealdestructor # Add your Github handle
 twitter: idealdestructor # Add your Twitter handle
 facebook: idealdestructor
