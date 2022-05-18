@@ -7,6 +7,6 @@ img: star.jpg # Add image post (optional)
 tags: [Universe, Animation]
 author: IdealDestructor# Add name author (optional)
 ---
-[Star](http://idealdestructor.com/stars/star.html)  Stars never sleep
-[Solar](http://idealdestructor.com/stars/solar.html) Solar for you
-[Meteor](http://idealdestructor.com/stars/meteor.html) Meteor of childhood
+[Star](http://idealdestructor.github.io/stars/star.html)  Stars never sleep
+[Solar](http://idealdestructor.github.io/stars/solar.html) Solar for you
+[Meteor](http://idealdestructor.github.io/stars/meteor.html) Meteor of childhood

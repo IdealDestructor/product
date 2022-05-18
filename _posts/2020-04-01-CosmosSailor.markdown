@@ -7,4 +7,4 @@ img: cosmossailor.png # Add image post (optional)
 tags: [Lite APP, Universe]
 author: IdealDestructor# Add name author (optional)
 ---
-![img](/assets/img/cosmosqrcode.png)
+![img](/lab/assets/img/cosmosqrcode.png)
